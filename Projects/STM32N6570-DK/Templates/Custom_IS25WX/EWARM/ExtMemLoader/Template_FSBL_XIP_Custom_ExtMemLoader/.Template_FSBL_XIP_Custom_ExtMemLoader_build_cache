@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\ST\Repository\N6_1.3.0_CustomEMM_IS25WX01G\Projects\STM32N6570-DK\Templates\Custom_IS25WX\EWARM\ExtMemLoader\Template_FSBL_XIP_Custom_ExtMemLoader\Exe\Template_FSBL_XIP_Custom_ExtMemLoader.out</Path>
+            <Output>
+                <Path>C:\ST\Repository\N6_1.3.0_CustomEMM_IS25WX01G\Projects\STM32N6570-DK\Templates\Custom_IS25WX\EWARM\ExtMemLoader\Template_FSBL_XIP_Custom_ExtMemLoader\List\Template_FSBL_XIP_Custom_ExtMemLoader.map</Path>
+            </Output>
+            <Output>
+                <Path>C:\ST\Repository\N6_1.3.0_CustomEMM_IS25WX01G\Projects\STM32N6570-DK\Templates\Custom_IS25WX\EWARM\ExtMemLoader\Template_FSBL_XIP_Custom_ExtMemLoader\Exe\Template_FSBL_XIP_Custom_ExtMemLoader_import_lib.o</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\ST\Repository\N6_1.3.0_CustomEMM_IS25WX01G\Projects\STM32N6570-DK\Templates\Custom_IS25WX\Binaries\Template_FSBL_XIP_Custom_Appli.out</Path>
+            <Output>
+                <Path>C:\ST\Repository\N6_1.3.0_CustomEMM_IS25WX01G\Projects\STM32N6570-DK\Templates\Custom_IS25WX\EWARM\Appli\Template_FSBL_XIP_Custom_Appli\List\Template_FSBL_XIP_Custom_Appli.map</Path>
+            </Output>
+            <Output>
+                <Path>C:\ST\Repository\N6_1.3.0_CustomEMM_IS25WX01G\Projects\STM32N6570-DK\Templates\Custom_IS25WX\Binaries\secure_nsclib.o</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Appli\Template_FSBL_XIP_Custom_Appli.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\FSBL\Template_FSBL_XIP_Custom_FSBL.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\ExtMemLoader\Template_FSBL_XIP_Custom_ExtMemLoader.ewp</path>
+    </project>
+    <batchBuild>
+        <batchDefinition>
+            <name>BuildAll</name>
+            <member>
+                <project>Template_FSBL_XIP_Custom_Appli</project>
+                <configuration>Template_FSBL_XIP_Custom_Appli</configuration>
+            </member>
+            <member>
+                <project>Template_FSBL_XIP_Custom_FSBL</project>
+                <configuration>Template_FSBL_XIP_Custom_FSBL</configuration>
+            </member>
+        </batchDefinition>
+    </batchBuild>
+</workspace>
